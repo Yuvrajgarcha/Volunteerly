@@ -1,0 +1,89 @@
+{
+    "users": [
+        {
+            "name": "Recruit",
+            "email": "Recruit1@.com",
+            "phone": "021123456",
+            "age": 20,
+            "username": "Recruit",
+            "password": "Qqqqqq1",
+            "role": "Recruit",
+            "disabilities": "None"
+        },
+        {
+            "name": "Volunteer",
+            "email": "Volunteer1@.com",
+            "phone": "0211234567",
+            "age": 20,
+            "username": "Volunteer",
+            "password": "Wwwwww1",
+            "role": "Volunteer",
+            "disabilities": ""
+        },
+        {
+            "name": "Recruit",
+            "email": "@.com",
+            "phone": "021",
+            "age": 20,
+            "username": "Q",
+            "password": "Qqqqqq1",
+            "role": "Recruit",
+            "disabilities": "no"
+        }
+    ],
+    "opportunities": [
+        {
+            "title": "title",
+            "description": "Decription",
+            "location": "location",
+            "date": "25/10/25",
+            "posted_by": "Q"
+        },
+        {
+            "title": "title",
+            "description": "Description",
+            "location": "location",
+            "date": "25/12/25",
+            "posted_by": "Q"
+        },
+        {
+            "title": "Title",
+            "description": "Description",
+            "location": "Location",
+            "date": "Date",
+            "posted_by": "Recruit"
+        }
+    ],
+    "applications": [
+        {
+            "username": "Volunteer",
+            "opportunity_title": "title",
+            "posted_by": "Q",
+            "status": "Pending"
+        },
+        {
+            "username": "Volunteer",
+            "opportunity_title": "title",
+            "posted_by": "Q",
+            "status": "Pending"
+        },
+        {
+            "username": "Volunteer",
+            "opportunity_title": "title",
+            "posted_by": "Q",
+            "status": "Pending"
+        },
+        {
+            "username": "Volunteer",
+            "opportunity_title": "Title",
+            "posted_by": "Recruit",
+            "status": "Accepted"
+        },
+        {
+            "username": "Volunteer",
+            "opportunity_title": "Title",
+            "posted_by": "Recruit",
+            "status": "Rejected"
+        }
+    ]
+}
